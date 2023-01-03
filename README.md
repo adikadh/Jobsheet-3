@@ -51,6 +51,13 @@ D. Mengganti Hostname ESP32
 
 
 
+E. Mengirim Data Sensor ke Database
+
+
+
+
+
+![e](https://user-images.githubusercontent.com/121172074/210308151-e3d3e499-66d4-4fba-86a7-b65e5e6b9836.JPG)
 
 
 
